@@ -1,1 +1,1 @@
-Proje raporları, deneyim belgeleri, şartnameler ve PDF belgeleri bu klasörde yer alır.
+Proje raporları, gönüllülük deneyim belgeleri, şartnameler ve PDF belgeleri bu klasörde yer alır.
